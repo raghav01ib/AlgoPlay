@@ -1,1 +1,1 @@
-# Project AlgoPlay
+# AlgoPlay
